@@ -2,7 +2,7 @@
 
 Submitted by: **James So**
 
-This web app: **allows music enthusiasts to discuss music with each other by allowing them to make posts, like and dislike posts, and comment on each other's posts. Posts can be deleted and edited by the creator of the post as long as the creator remembers the post password assigned to their post. **
+This web app: **allows music enthusiasts to discuss music with each other by allowing them to make posts, like and dislike posts, and comment on each other's posts. Posts can be deleted and edited by the creator of the post as long as the creator remembers the post password assigned to their post.**
 
 Time spent: **7** hours spent in total
 
