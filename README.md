@@ -2,7 +2,7 @@
 
 Submitted by: **James So**
 
-This web app: **allows music enthusiasts to discuss music with each other by allowing them to make posts, like and dislike each post, and comment on each other's posts. Posts can be deleted and edited by the creator of the post given that the creator remembers the post password assigned to their post. **
+This web app: **allows music enthusiasts to discuss music with each other by allowing them to make posts, like and dislike posts, and comment on each other's posts. Posts can be deleted and edited by the creator of the post as long as the creator remembers the post password assigned to their post. **
 
 Time spent: **7** hours spent in total
 
@@ -36,6 +36,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] A dislike button was added and was made so that the user could not like and dislike a post at the same time
+* [x] To upload a YouTube video to their post, all a user has to do is provide the YouTube URL(i.e. https://www.youtube.com/watch?v=jsjansjd) as the post's video URL
 
 ## Video Walkthrough
 
